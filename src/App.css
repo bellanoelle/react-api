@@ -1,0 +1,100 @@
+.logo{
+    float:left;
+    padding-left: 2%;
+    width: 100px;
+    height: 150px;
+    background-repeat: no-repeat;
+    background-image: url("http://www.peerless-betatools.com/img/beta-logo.png");
+}
+.img {width: 100%; height: auto;}
+.homeimg{
+    background-image: url("http://thehubcycleworks.co.uk/wp-content/themes/bike-shop-southampton/images/bike-sale-southampton.png");
+    width: 100%;
+    height: 200px;
+    background-repeat: no-repeat;
+}
+/********************
+navbar
+*******************/
+hr{
+}
+.style {
+    text-align: center;
+    padding: 0px 0;
+    margin: 0;
+    background-color: white;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background-color: white;
+    height: 15%;
+    overflow: auto;
+    background-color: orange;
+}
+
+li {
+    margin-top: 0px;
+    padding-left: 1%;
+    float: left;
+    
+}
+
+li a {
+    display: block;
+    color: #000;
+    padding: 0px 20px;
+    text-decoration: none;
+    font-family: 'Slabo 27px', serif;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: orange;
+    color: white;
+    text-decoration: none;
+
+}
+.dropbtn {
+    background-color: orange;
+    color: white;
+    padding: 8px;
+    font-size: 16px;
+    width: 100%;
+    border: none;
+    cursor: pointer;
+    font-family: 'Slabo 27px', serif;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: orange;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 5px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {background-color: orange;}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    background-color: orange;
+}

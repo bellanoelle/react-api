@@ -1,0 +1,137 @@
+{"products": [
+    {
+        "id": 1,
+        "name": "Borrmaskin AT-7",
+        "description": "Marknadens bästa budget-borr. En fröjd för ögat och själen. Kan användas även vid våtrumsarbete. Två års garanti.",
+        "inStock": true,
+        "watt": 400,
+        "manufacturer": "Lithium",
+        "imageUrl": "https://images.wagcdn.com/600/600/fill/p/prod-tretti-se/imported/Black_%26_Decker/ASD184KB-QW.jpg",
+        "weightInGram": 2300,
+        "consumerPrice": 699,
+        "categories": [
+            "prisvärd", "budget","verktyg"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Hammare Gustav IV",
+        "description": "Frukten av långt utvecklingsarbete har lett fram till denna formfulländade hammare. Varje hemma-snickares dröm med skaft i lagrad ek.",
+        "inStock": true,
+        "manufacturer": "Black & Decker",
+        "imageUrl": "http://www.proffsmagasinet.se/20.0.0.1/15681/b04dbda1c7661f8ef7e3346cb201fc54.jpg",
+        "weightInGram": 300,
+        "consumerPrice": 249,
+        "categories": [
+            "hantverk", "lyx", "svensktillverkad","verktyg"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Sandblästrare ZC801E",
+        "description": "Bara det bästa är gott nog för den som ska blästra. Från Korea kommer klassens bästa apparat, med pris från årets CEBIT-mässa.",
+        "inStock": true,
+        "watt": 1200,
+        "manufacturer": "Samsung",
+        "imageUrl": "http://novamachinetools.com/8827-home_default/nova-sbc990-hiekkapuhallin.jpg",
+        "weightInGram": 6880,
+        "consumerPrice": 1249,
+        "categories": [
+            "toppklass", "prima", "bäst-i-test","verktyg"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Hammare Cassius-Brutus",
+        "description": "Passar väl till både nybörjaren som letar efter sin första hammare, såväl som för den mer erfarne som vill ha en gedigen brukshammare.",
+        "inStock": false,
+        "manufacturer": "Black & Decker",
+        "imageUrl": "https://cdn.starwebserver.se/shops/verktygshandlarn/files/cache/vaughan_v3_hammare_tiny.jpg?_=1432113774",
+        "weightInGram": 125,
+        "consumerPrice": 99,
+        "categories": [
+            "prisvärd", "budget", "svensktillverkad","verktyg"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Vinkelslip G3",
+        "description": "En dröm att hantera, enligt många. Vinkelslipen från Tyskland har tagit utlandet med storm och finns nu i Sverige. Passa på!",
+        "inStock": true,
+        "watt": 600,
+        "manufacturer": "BOSCH",
+        "imageUrl": "http://www.proffsmagasinet.se/20.0.0.0/3268/db39e59452037138d2b5ab8400c9b0f7.jpg",
+        "weightInGram": 8940,
+        "consumerPrice": 2699,
+        "categories": [
+            "prisvärd", "kvalitet", "verktyg"
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Verktygsbälte Fredman",
+        "description": "Bälte i läder, med öljetter i mässingsimitation. 12cm striglingsyta och med fyra stora fack och tre små.",
+        "inStock": true,
+        "manufacturer": "Hultafors",
+        "imageUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQkSn7M7Pd70lX3LKOKkkdiyose5OrUwLqyte1SXwzP06tHN0Vf8A",
+        "weightInGram": 773,
+        "consumerPrice": 289,
+        "categories": [
+            "prisvärd", "svensktillverkad", "hantverk","kläder"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Fogsvans UL92",
+        "description": "Handtag i PVC. Blad i rostfritt kolstål. Säkerhetsklass III. En såg som matchar dina höga behov.",
+        "inStock": false,
+        "manufacturer": "Electrolux",
+        "imageUrl": "http://www.öob.se/storage/ma/f07e874f44704d4eba39c485493010a8/d4370da1863d4da38f5242f63cb9a82d/630-480-0-jpg.Jpeg/D45E158FC6AA8A4977F8F3E7D7F18CD84CAD3B32/45042.jpeg",
+        "weightInGram": 440,
+        "consumerPrice": 739,
+        "categories": [
+            "lyx", "kvalitet","verktyg"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Multimeter Faxe",
+        "description": "Dagens bästa köp. Multimeter med alla tolv vanliga mätinställningar samt förkromade kontakter och extra lång batteritid.",
+        "inStock": true,
+        "manufacturer": "Texas instruments",
+        "imageUrl": "https://i.ebayimg.com/00/s/NjAwWDYwMA==/z/BOIAAOSwHsRYEHL-/$_20.jpg",
+        "weightInGram": 380,
+        "consumerPrice": 699,
+        "categories": [
+            "prisvärd", "lyx", "kvalitet", "hantverk","verktyg"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Dammsugare Bavaria Blue",
+        "description": "Lättviktsdammsugare med känsla av kvalitet. Tre separata reglage styr insugskraften och dubbla turbo-aggregat ser till att det blir rent på nolltid.",
+        "inStock": true,
+        "watt": 1800,
+        "manufacturer": "Panasonic",
+        "imageUrl": "http://eelabstatic.se/Image/Article/103921/Product-detail-zoom/dammsugare-electrolux-900273868.jpg",
+        "weightInGram": 2100,
+        "consumerPrice": 2399,
+        "categories": [
+            "prisvärd", "kvalitet", "bäst-i-test","elektronik"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Knivslip Runar",
+        "description": "svensktillverkad kvalitetsslip i råbarkad slipsten. Räcker till över 2000 timmars slipande.",
+        "inStock": false,
+        "manufacturer": "Hultafors",
+        "imageUrl": "http://www.vapencentrum.com/files/webshop/products/worksharp%2021.jpg",
+        "weightInGram": 84,
+        "consumerPrice": 79,
+        "categories": [
+            "svensktillverkad", "budget","verktyg"
+        ]
+    }
+]
+}
